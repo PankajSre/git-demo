@@ -1,1 +1,1 @@
-ssss
+const age=35;
