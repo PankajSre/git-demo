@@ -1,2 +1,2 @@
-var x= 100;
 condt myFunct= () => {};
+const age=35;
